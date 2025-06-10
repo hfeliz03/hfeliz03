@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Computer Science & Mathematics Junior at [University of Massachussetts Amherst](https://www.cics.umass.edu/) <br>💻 Interested in Data and Software Development <br>🔭 Currently working on an app based on omdbapi <br>🌱 Learning about Data Science and full-stack development 
+📚 Computer Science & Mathematics Senior at [University of Massachussetts Amherst](https://www.cics.umass.edu/) <br>💻 Interested in Data and Software Development <br>🔭 Currently working on an app based on omdbapi <br>🌱 Learning about Data Science and full-stack development 
 
 
 # 💻 Tech Stack:
