@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Computer Science & Mathematics Senior at [University of Massachussetts Amherst](https://www.cics.umass.edu/) <br>💻 Interested in Data and Software Development  <br>🌱 Learning about Data Science, full-stack development, Oracle and AI
+📚 Computer Science & Mathematics MS Student at [University of Massachussetts Amherst](https://www.cics.umass.edu/) <br>💻 Interested in AI and Software Development  <br>🌱 Currently Learning about AI Agents, NLP/LLMs, RAG, Reinforcement Learning, Dinamic Programming, and Quantitative Finance
 
 
 # 💻 Tech Stack:
