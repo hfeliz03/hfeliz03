@@ -1,6 +1,5 @@
-<div align="left">
-    <h1>👋🏻 Hey! I'm <a href="https://heofeliz.com">Heo</a></h1>
-</div>
+<h1>👋🏻 Hey! I'm <a href="https://heofeliz.com">Heo</a></h1>
+
 
 📚 Computer Science & Mathematics MS Student at [University of Massachussetts Amherst](https://www.cics.umass.edu/) <br>💻 Interested in AI and Software Development  <br>🌱 Currently Learning about AI Agents, NLP/LLMs, RAG, Reinforcement Learning, Dinamic Programming, and Quantitative Finance<br>
 🛜 Hop onto my personal website - [heofeliz.com](https://heofeliz.com)<br>
